@@ -30,8 +30,7 @@ aux_links:
     - "//github.com/valq7711/websaw"
   "Voodoodal on Github":
     - "//github.com/valq7711/voodoodal"
-    
-    
+   
 search_enabled: true
 search.heading_level: 2
 
