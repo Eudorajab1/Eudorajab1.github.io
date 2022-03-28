@@ -18,20 +18,28 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+remote_theme: just-the-docs/just-the-docs
+
 title: Websaw Examples and Tutorials
 email: eudorajab1@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  A collection of exmples and step-by-step tutorials covering all aspects of application
-  development using the amazing Websaw framework.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  Eudorajab1
+logo: "/assets/images/websaw-logos_transparent.png"
+aux_links:
+  "Websaw on GitHub":
+    - "//github.com/valq771/websaw"
+  "Pyjsaw on Github":
+    - "//github.com/valq771/websaw"
+  "Voodoodal on Github":
+    - "//github.com/valq771/voodoodal"
+    
+search_enabled: true
+search.heading_level: 2
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: false
 
 markdown: kramdown
 
 # Build settings
-theme: minima
 plugins:
   - jekyll-feed
 
