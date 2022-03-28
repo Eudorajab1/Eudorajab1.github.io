@@ -4,6 +4,12 @@ You can use the [editor on GitHub](https://github.com/Eudorajab1/Eudorajab1.gith
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+## Another header here 
+
+Just for fun
+
+## and another
+Just for fun
 ### Markdown
 
 Some more stuff here
