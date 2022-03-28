@@ -41,9 +41,6 @@ aux_links_new_tab: false
 markdown: kramdown
 
 # Build settings
-plugins:
-  - jekyll-feed
-
 
 # Exclude from processing.
 # The following items will not be processed, by default.
