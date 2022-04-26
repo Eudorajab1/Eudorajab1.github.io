@@ -3,6 +3,7 @@ layout: default
 title: Installation Guide
 nav_order: 3
 has_children: true
+hide_toc : true
 ---
 
 ## Installation
