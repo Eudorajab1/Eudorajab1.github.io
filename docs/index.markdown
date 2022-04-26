@@ -5,8 +5,10 @@
 layout: page
 nav_order: 1
 ---
-## Welcome to Websaw
+## The Websaw Workshop
 
-Websaw is a cool framework and I am gonna show you how to use it!!
+Websaw is a lightwight, superfast and comprehensive web framework and here is where we are gonna learn to use it !!
 
 In order to get the maximum benefit from these tutorials / examples you shoudl have websaw installed on your dev machine.
+
+So lets get going and start creating **awesome** Apps
